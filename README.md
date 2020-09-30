@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1 align="center">Hi 👋🏻, I'm Mustafa Khan </h1>
+ <h1 align="center">Hi 👋🏻, I'm Mustafa Khan </h1> <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50">
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
