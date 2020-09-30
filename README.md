@@ -49,5 +49,8 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
 
 # Reach me
-[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](khanmustafa717@gmail.com)[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740) [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) [<img target="_blank" src="v" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
+[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](khanmustafa717@gmail.com)
+[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740) 
+[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
+[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
