@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<h3 align="center">A Computer Science undergrad & passionate Data Scientist.
-  ### Things I'm good at :fire:
+<h2 align="center">A Computer Science undergrad & passionate Data Scientist.>
+ 
+ <h3 Things I'm good at :fire:> 
 **Languages:**  Python, SQL, MongoDB, HTML, CSS.
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="20" height="20" /> 
