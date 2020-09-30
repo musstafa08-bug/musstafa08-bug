@@ -43,7 +43,6 @@ Here are some ideas to get you started:
  <p align="center">
    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
-   <a href="https://www.linkedin.com/in/mustafa-khan-5036241b1/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@musstafa" /></a>
 </p>
 
    
