@@ -45,5 +45,9 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
-   
+# My public workds
+- 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
+
+# Reach me
+[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYHIf4Txw2BnwctE7IyacucVaNMM5Vm83zDQ&usqp=CAU"/>](khanmustafa717@gmail.com)[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkhKkj20W_iIY1HQA9s5uPcdiy0JaYdXBUug&usqp=CAU"/>](https://wa.me/9617899740) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) [<img target="_blank" src="https://image.flaticon.com/icons/png/512/39/39379.png"/>](https://twitter.com/Mustafa22220423)
   
