@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank">
+- 🔭 I’m currently working as a 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="80"> </h1> 
+<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="70" height="40"> </h1> 
+<p align="center">
+Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank">
+ </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
