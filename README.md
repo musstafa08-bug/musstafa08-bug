@@ -40,9 +40,11 @@ Here are some ideas to get you started:
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoebnp4WyfrOXkoLS1h-sw7HjIpGYYgrBNQ&usqp=CAU" alt="ibm watson"  width="20" height="20" />
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4FGxJJI8eEhk5keGl82RLezemMaOuoZXUEQ&usqp=CAU" alt="github"  width="20" height="20" />
  
- <p align="center">
+<p align="center">
    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
+   <a href="https://twitter.com/intent/follow?screen_name=Mustafa Khan"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@Musstafa22220423" /></a>
+   <a href="https://www.linkedin.com/in/mustafakhan"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@musstafa" /></a>
 </p>
 
    
