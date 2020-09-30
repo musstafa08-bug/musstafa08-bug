@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
 
 # Reach me
-[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYHIf4Txw2BnwctE7IyacucVaNMM5Vm83zDQ&usqp=CAU"/>](khanmustafa717@gmail.com)[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkhKkj20W_iIY1HQA9s5uPcdiy0JaYdXBUug&usqp=CAU"/>](https://wa.me/9617899740) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) [<img target="_blank" src="https://image.flaticon.com/icons/png/512/39/39379.png"/>](https://twitter.com/Mustafa22220423)
+[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg"/>](khanmustafa717@gmail.com)[<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg"/>](https://wa.me/9617899740) [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) [<img target="_blank" src="v"/>](https://twitter.com/Mustafa22220423)
   
