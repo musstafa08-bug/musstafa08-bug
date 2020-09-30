@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 <p align="center">
 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
+
 <h2 align="center">A Computer Science undergrad & passionate Data Scientist. 
+
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="20" height="20" /> 
@@ -48,8 +51,10 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
+
 # My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
+
 
 # Reach me
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
@@ -57,6 +62,7 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=musstafa08-bug&show_icons=true" alt="musstafa08-bug" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musstafa08-bug&layout=compact" alt="musstafa08-bug" />
