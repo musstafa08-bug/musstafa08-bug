@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="70" height="40"> </h1> 
+<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="60" height="30"> </h1> 
 <p align="center">
-Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank">
+Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
