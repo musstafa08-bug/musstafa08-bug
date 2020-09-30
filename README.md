@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ijelliti&show_icons=true" alt="ijelliti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijelliti&layout=compact" alt="ijelliti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musstafa08-bug&show_icons=true" alt="musstafa08-bug" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musstafa08-bug&layout=compact" alt="musstafa08-bug" />
 </p>
