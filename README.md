@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Mustafa Khan
-
 <!--
 **musstafa08-bug/musstafa08-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Mustafa Khan </h1>
+<p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 <h2 align="center">A Computer Science undergrad & passionate Data Scientist.
  
  <h3> Things I'm good at :fire: <h3> 
