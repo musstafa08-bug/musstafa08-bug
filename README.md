@@ -45,7 +45,7 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
-# My public workds
+# My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
 
 # Reach me
@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ijelliti&show_icons=true" alt="ijelliti" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijelliti&layout=compact" alt="ijelliti" />
+</p>
