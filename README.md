@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="20" height="20" />
   <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="20" height="20" />
   
+  
   <b>Framework:</b>  Flask
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="20" height="20" />
 
 <b>Libraries:</b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, Folium, Scikit-Learn, Tensorflow, Keras
+  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" alt="pandas"  width="20" height="20" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPyPIg8CHsYlg6yJk0MwyDlv0hHB8iL6IchA&usqp=CAU" alt="numpy"  width="20" height="20" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJxl9wVLrr_kKuCLpNAHVcFXzvw6guQ6dcTw&usqp=CAU" alt="matplotlib"  width="20" height="20" />
