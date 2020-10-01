@@ -53,7 +53,7 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
 </p>
 
 
-<h2> My public work</h2>
+# My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
 
 
