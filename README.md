@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50" height="25"> </h1> 
-<h2 align="center">A Computer Science undergrad & passionate Data Scientist. 
+<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! 
+<h2 align="center">A Computer Science undergrad & passionate Data Scientist.  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200" />
 
 
 <p align="center">
@@ -24,6 +24,7 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
+**Languages and Tools:**
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="40" height="40" /> 
