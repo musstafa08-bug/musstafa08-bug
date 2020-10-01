@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<h3 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
+Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
 
 <p align="center">
