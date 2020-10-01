@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50" height="25"> </h1> 
 <h2 align="center">A Computer Science undergrad & passionate Data Scientist. 
+
+
 <p align="center">
-Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
+<h3 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
 
 <p align="center">
