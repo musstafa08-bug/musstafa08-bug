@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50" height="250"> </h1> 
+<h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50" height="25"> </h1> 
 <p align="center">
 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
