@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋🏻, I'm Mustafa Khan! <img src="https://media2.giphy.com/media/B4jfJqiIxvU08/200.gif" width="50" height="25"> </h1> 
+<h2 align="center">A Computer Science undergrad & passionate Data Scientist. 
 <p align="center">
 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
@@ -20,8 +21,6 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-
-<h2 align="center">A Computer Science undergrad & passionate Data Scientist. 
 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
