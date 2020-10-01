@@ -57,18 +57,19 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200" />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="175" height="175" />
 
 ## My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
+
 
 ## Reach me
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
-- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740) 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
+- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740)
+- [<img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20"/>](https://www.instagram.com/__musstafa__/)
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
 
