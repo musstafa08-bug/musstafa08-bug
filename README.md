@@ -58,6 +58,8 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
 
 
 # Reach me
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740) 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
