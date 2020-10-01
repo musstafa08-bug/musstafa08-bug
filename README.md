@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋🏻, I'm Mustafa Khan!   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200" />
+<h1 align="center">Hi 👋🏻, I'm Mustafa Khan!
 
 <h2 align="center">A Computer Science undergrad & passionate Data Scientist.
 
@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-SOFTWARE-PRIVATE-LIMITED/U72900MP2020PTC052601" target="_blank"> TechnoColabs</a>
  </p>
 
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/musstafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
-**Languages and Tools:**
+<br>
+
+## Languages and Tools:
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="40" height="40" /> 
@@ -54,12 +57,13 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200" />
 
-# My public work
+
+## My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
 
-
-# Reach me
+## Reach me
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
