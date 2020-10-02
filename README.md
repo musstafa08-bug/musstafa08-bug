@@ -74,6 +74,7 @@ Data Science intern at <a href="https://www.zaubacorp.com/company/TECHNOCOLABS-S
   
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=musstafa08-bug&show_icons=true" alt="musstafa08-bug" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musstafa08-bug&layout=compact" alt="musstafa08-bug" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musstafa08-bug&show_icons=true&theme=tokyonight" alt="musstafa08-bug" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musstafa08-bug&theme=tokyonight&layout=compact" alt="musstafa08-bug" />
 </p>
