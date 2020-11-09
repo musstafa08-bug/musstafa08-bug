@@ -53,8 +53,9 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="175" height="175" />
 <br><br>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="175" height="175" />
 
 <div align="center">
   
