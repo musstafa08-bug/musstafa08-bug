@@ -55,8 +55,46 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="175" height="175" />
 
-## My public work
-- 👨‍💻 All of my projects are available [here](https://github.com/musstafa08-bug?tab=repositories)
+<div align="center">
+  
+## My Repositories at Glance
+<table>
+  <tr>
+    <th>Machine Learning</th>
+    <th>Computer Vision</th>
+  </tr>
+  <tr>
+    <td> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Support-Vector-Machine"><i>Cancer Predictor</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Movie-Recommendation-System"><i>Movie Recommendation System</i></a></li>
+       <li><a target="_blank" href = "https://github.com/musstafa08-bug/Heart-Disease-Classifier-using-Rnadom-Forest"><i>Heart Disease Classifier</i></a></li>
+      </ul> 
+    </td>
+
+  <tr>
+    <th>Natural Language Processing</th>
+    <th>Deep Learning</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Text-Summarizer"><i>Text Summarizer</i></a> </li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Poem-Generator"><i>Poem Generator</i></a></li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Fake-News-Classifier"><i>Fake News Classifier</i></a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Emotion-Tracker"><i>Emotion Tracker</i></a> </li>
+       <li><a target="_blank" href="https://github.com/musstafa08-bug/Sentiment-Analysis-of-Amazon-Product-Reviews"><i>Sentiment Analysis of Amazon Product Reviews</i></a> </li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Deep-Fake-Video"><i>Deep Fake Video</i></a></li>
+      </ul>
+    </td>
+  <tr>
+</table>
+</div>
+
 
 
 ## Reach me
