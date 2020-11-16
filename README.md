@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://camo.githubusercontent.com/7f446cc5286f8848fca282b72a361e0696cf3096/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
