@@ -25,27 +25,20 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 <p align="center">
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>
- <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="60" height="60" /> 
- <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" /> 
- <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="60" height="60" />
- <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_FYxPEbg_5-gueG3EU-bGD7ldF1_8zDhpXQ&usqp=CAU" alt="heroku"  width="60" height="60" />
-  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" alt="pandas"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPyPIg8CHsYlg6yJk0MwyDlv0hHB8iL6IchA&usqp=CAU" alt="numpy"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJxl9wVLrr_kKuCLpNAHVcFXzvw6guQ6dcTw&usqp=CAU" alt="matplotlib"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjL-EyWMAnIeZ2JR9aGFKEOJLqWexG2Ev8Fg&usqp=CAU" alt="seaborn"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnDCTatXAJKS1Bi49FPxOHfLbpedaJXxAnTg&usqp=CAU" alt="plotly"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbgev4rOoFcIpsqYjpUyyLaZsP1ioMFSZcFg&usqp=CAU" alt="folium"  width="60" height="60" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyf1Duygbd33ZbFq-GRnUlL0sw2aWV6DNYYA&usqp=CAU" alt="tensorflow"  width="60" height="60" />
- <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="60" height="60" />
- <img src="https://keras.io/img/logo.png" alt="keras"  width="60" height="60" />
-  
- <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoebnp4WyfrOXkoLS1h-sw7HjIpGYYgrBNQ&usqp=CAU" alt="ibm watson"  width="60" height="60" />
+ <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
+ <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img height="60" width="60" src="https://camo.githubusercontent.com/7f446cc5286f8848fca282b72a361e0696cf3096/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667" />&nbsp;&nbsp;&nbsp;
+ <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIoTj9GxBmXXP_ZLm9TYXmQm5EVVb3Nv72tw&usqp=CAU" alt="NLP"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://keras.io/img/logo.png" alt="keras"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://fbt2015-media.s3-eu-west-1.amazonaws.com/media/2017/09/IBMWatson-e1505377103514.png" alt="ibm watson"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  
  
 <p align="center">
