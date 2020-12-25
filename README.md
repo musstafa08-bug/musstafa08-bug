@@ -67,7 +67,12 @@ Here are some ideas to get you started:
        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Heart-Disease-Classifier-using-Rnadom-Forest"><i>Heart Disease Classifier</i></a></li>
       </ul> 
     </td>
-
+    <td>
+     <ul>
+      <li><a target="_blank" href = "https://github.com/musstafa08-bug/cartoonize_video"><i>Cartoonized Video</i></a></li>
+      <li><a target="_blank" href = "https://github.com/musstafa08-bug/draw-in-air"><i>Draw in Air</i></a></li>
+     </ul>
+     </td>
   <tr>
     <th>Natural Language Processing</th>
     <th>Deep Learning</th>
