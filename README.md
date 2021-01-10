@@ -32,7 +32,6 @@ Here are some ideas to get you started:
  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
   <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img height="60" width="60" src="https://camo.githubusercontent.com/7f446cc5286f8848fca282b72a361e0696cf3096/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIoTj9GxBmXXP_ZLm9TYXmQm5EVVb3Nv72tw&usqp=CAU" alt="NLP"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
@@ -103,7 +102,6 @@ Here are some ideas to get you started:
 
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
-- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" width="20" height="20"/>](https://wa.me/9617899740)
 - [<img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20"/>](https://www.instagram.com/__musstafa__/)
 - [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
