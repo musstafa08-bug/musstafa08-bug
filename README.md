@@ -61,9 +61,9 @@ Here are some ideas to get you started:
   <tr>
     <td> 
       <ul>
-        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Support-Vector-Machine"><i>Cancer Predictor</i></a></li> 
-        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Movie-Recommendation-System"><i>Movie Recommendation System</i></a></li>
-       <li><a target="_blank" href = "https://github.com/musstafa08-bug/Heart-Disease-Classifier-using-Rnadom-Forest"><i>Heart Disease Classifier</i></a></li>
+        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Spam-Classifier-Deployment"><i>SMS Spam Classifier</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Review-Scrapper"><i>Reviews Scrapper</i></a></li>
+       <li><a target="_blank" href = "https://github.com/musstafa08-bug/Startup-Profit-Prediction"><i>Startup profit prediction</i></a></li>
       </ul> 
     </td>
     <td>
@@ -79,16 +79,14 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/Text-Summarizer"><i>Text Summarizer</i></a> </li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/ChatBot"><i>ChatBot POC</i></a> </li>
         <li><a target="_blank" href="https://github.com/musstafa08-bug/Poem-Generator"><i>Poem Generator</i></a></li>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/Fake-News-Classifier"><i>Fake News Classifier</i></a></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/Emotion-Tracker"><i>Emotion Tracker</i></a> </li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/ASL"><i>American Sign Language Predictor</i></a> </li>
        <li><a target="_blank" href="https://github.com/musstafa08-bug/Sentiment-Analysis-of-Amazon-Product-Reviews"><i>Sentiment Analysis of Amazon Product Reviews</i></a> </li>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/Deep-Fake-Video"><i>Deep Fake Video</i></a></li>
       </ul>
     </td>
   <tr>
