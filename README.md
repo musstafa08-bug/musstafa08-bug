@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <td>
       <ul>
         <li><a target="_blank" href="https://github.com/musstafa08-bug/ChatBot"><i>ChatBot POC</i></a> </li>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/Poem-Generator"><i>Poem Generator</i></a></li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/Story-Generator"><i>Story Generator</i></a></li>
       </ul>
     </td>
     <td>
