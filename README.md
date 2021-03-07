@@ -28,17 +28,20 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
  <img src="http://pngimg.com/uploads/mysql/mysql_PNG22.png" alt="mysql"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
- <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIoTj9GxBmXXP_ZLm9TYXmQm5EVVb3Nv72tw&usqp=CAU" alt="NLP"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://keras.io/img/logo.png" alt="keras"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" alt="Pyspark"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://fbt2015-media.s3-eu-west-1.amazonaws.com/media/2017/09/IBMWatson-e1505377103514.png" alt="ibm watson"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="Pycharm"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
+ <img src="https://assets-cdn.anaconda.com/assets/_1200x630_crop_center-center_82_none/anaconda-meta.jpg?mtime=20200506175707&focal=none&tmtime=20210216163404" alt="Anaconda"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" alt="Spyder"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="VS Code"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+
+
  
  
 <p align="center">
