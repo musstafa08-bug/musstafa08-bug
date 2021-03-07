@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
- <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="http://pngimg.com/uploads/mysql/mysql_PNG22.png" alt="mysql"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
