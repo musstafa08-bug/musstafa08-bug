@@ -37,9 +37,9 @@ Here are some ideas to get you started:
  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://fbt2015-media.s3-eu-west-1.amazonaws.com/media/2017/09/IBMWatson-e1505377103514.png" alt="ibm watson"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="Pycharm"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
- <img src="https://assets-cdn.anaconda.com/assets/_1200x630_crop_center-center_82_none/anaconda-meta.jpg?mtime=20200506175707&focal=none&tmtime=20210216163404" alt="Anaconda"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" alt="Spyder"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="VS Code"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="VS Code"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
 
 
  
