@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
- <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://keras.io/img/logo.png" alt="keras"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
+ <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="80" height="80" />&nbsp;&nbsp;&nbsp;
+ <img src="https://keras.io/img/logo.png" alt="keras"  width="80" height="50" />&nbsp;&nbsp;&nbsp;
  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" alt="Pyspark"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://fbt2015-media.s3-eu-west-1.amazonaws.com/media/2017/09/IBMWatson-e1505377103514.png" alt="ibm watson"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
