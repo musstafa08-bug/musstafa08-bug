@@ -89,7 +89,7 @@ Here are some ideas to get you started:
     <td>
       <ul>
         <li><a target="_blank" href="https://github.com/musstafa08-bug/ASL"><i>American Sign Language Predictor</i></a> </li>
-       <li><a target="_blank" href="https://github.com/musstafa08-bug/Sentiment-Analysis-of-Amazon-Product-Reviews"><i>Sentiment Analysis of Amazon Product Reviews</i></a> </li>
+       <li><a target="_blank" href="https://github.com/musstafa08-bug/Maleria-Detection"><i>Malaria Detector</i></a> </li>
       </ul>
     </td>
   <tr>
