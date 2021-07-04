@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <tr>
     <td> 
       <ul>
-        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Spam-Classifier-Deployment"><i>SMS Spam Classifier</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Wafer-Fault-Detection"><i>Wafer Fault Detection</i></a></li> 
         <li><a target="_blank" href = "https://github.com/musstafa08-bug/Review-Scrapper"><i>Reviews Scrapper</i></a></li>
        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Startup-Profit-Prediction"><i>Startup profit prediction</i></a></li>
       </ul> 
