@@ -35,7 +35,6 @@ Here are some ideas to get you started:
  <img src="https://keras.io/img/logo.png" alt="keras"  width="80" height="50" />&nbsp;&nbsp;&nbsp;
  <img src="https://miro.medium.com/max/600/1*41ZvomVNo_Z2el22u5Lx9g.jpeg" alt="Pyspark"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://fbt2015-media.s3-eu-west-1.amazonaws.com/media/2017/09/IBMWatson-e1505377103514.png" alt="ibm watson"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="Pycharm"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" alt="Spyder"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
@@ -44,11 +43,7 @@ Here are some ideas to get you started:
 
  
  
-<p align="center">
-   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
-   <img src="https://komarev.com/ghpvc/?username=musstafa08-bug" alt="musstafa08-bug" />
-</p>
-
+[![Mustafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=musstafa08-bug&theme=xcode)](https://git.io/musstafa08-bug)
 <br><br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="175" height="175" />
