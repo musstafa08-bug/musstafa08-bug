@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 <p align="center">
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
- <img src="http://pngimg.com/uploads/mysql/mysql_PNG22.png" alt="mysql"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKsJQSrJwaTecSTGAZGSW0VzRf6xHWFrq5w&usqp=CAU" alt="flask"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code> &nbsp;&nbsp; 
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/flask.svg"></code> &nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sckit-learn"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
- <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow"  width="80" height="80" />&nbsp;&nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code> &nbsp;&nbsp;
  <img src="https://keras.io/img/logo.png" alt="keras"  width="80" height="50" />&nbsp;&nbsp;&nbsp;
- <img src="https://miro.medium.com/max/600/1*41ZvomVNo_Z2el22u5Lx9g.jpeg" alt="Pyspark"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://i1.wp.com/www.webprecious.com/wp-content/uploads/2019/09/Pycharm.png?resize=750%2C410&ssl=1" alt="Pycharm"  width="60" height="60" />&nbsp;&nbsp;&nbsp; 
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></code> &nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg"></code> &nbsp;&nbsp; 
  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" alt="Spyder"  width="60" height="60" />&nbsp;&nbsp;&nbsp;
+ <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/spyder.svg"></code> &nbsp;&nbsp;
  <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="VS Code"  width="80" height="60" />&nbsp;&nbsp;&nbsp;
 
 
