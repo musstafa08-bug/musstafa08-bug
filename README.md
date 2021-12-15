@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 ## Reach me
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 
-- [<img target="_blank" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" width="20" height="20"/>](mailto:musstafa0804@gmail.com)
-- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
-- [<img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20"/>](https://www.instagram.com/__musstafa__/)
-- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
+- [<img target="_blank" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" height="20"/>](mailto:contactmusstafa@gmail.com)
+- [<img target="_blank" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
+- [<img target="_blank" src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" height="20"/>](https://www.instagram.com/___musstafa___/)
+- [<img target="_blank" src="https://img.icons8.com/fluency/48/000000/twitter.png" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
 
 <p align="center"> 
