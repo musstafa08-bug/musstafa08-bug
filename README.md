@@ -74,7 +74,7 @@ Here are some ideas to get you started:
      </td>
   <tr>
     <th>Natural Language Processing</th>
-    <th>Deep Learning</th>
+    <th>Big Data and Data Visualization</th>
   </tr>
   <tr>
     <td>
@@ -85,8 +85,8 @@ Here are some ideas to get you started:
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/musstafa08-bug/ASL"><i>American Sign Language Predictor</i></a> </li>
-       <li><a target="_blank" href="https://github.com/musstafa08-bug/Maleria-Detection"><i>Malaria Detector</i></a> </li>
+        <li><a target="_blank" href="https://github.com/musstafa08-bug/BIG-DATA"><i>Big Data</i></a> </li>
+       <li><a target="_blank" href="https://github.com/musstafa08-bug/Data-Visualization"><i>Data Visualization</i></a> </li>
       </ul>
     </td>
   <tr>
