@@ -64,7 +64,7 @@ Here are some ideas to get you started:
         <li><a target="_blank" href = "https://github.com/musstafa08-bug/Wafer-Fault-Detection"><i>Wafer Fault Detection</i></a></li>
        <li><a target="_blank" href = "https://github.com/musstafa08-bug/Back-Order-Prediction"><i>Back Order Prediction</i></a></li> 
         <li><a target="_blank" href = "https://github.com/musstafa08-bug/Review-Scrapper"><i>Reviews Scrapper</i></a></li>
-       <li><a target="_blank" href = "https://github.com/musstafa08-bug/Startup-Profit-Prediction"><i>Startup profit prediction</i></a></li>
+       <li><a target="_blank" href = "https://github.com/musstafa08-bug/Startup-Profit-Prediction"><i>Startup Profit Prediction</i></a></li>
       </ul> 
     </td>
     <td>
