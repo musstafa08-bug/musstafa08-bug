@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 - [<img target="_blank" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" height="20"/>](mailto:contactmusstafa@gmail.com)
 - [<img target="_blank" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20" height="20"/>](https://www.linkedin.com/in/mustafa-khan-5036241b1/) 
-- [<img target="_blank" src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" height="20"/>](https://www.instagram.com/___musstafa___/)
+- [<img target="_blank" src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" height="20"/>](https://www.instagram.com/__musstafa__/)
 - [<img target="_blank" src="https://img.icons8.com/fluency/48/000000/twitter.png" width="20" height="20"/>](https://twitter.com/Mustafa22220423)
   
 
