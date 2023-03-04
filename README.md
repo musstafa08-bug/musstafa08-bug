@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋🏻, I'm Mustafa Khan!</h1>
 
-<h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.
+<h2 align="center">A Machine Learning & Deep Learning Enthusiast.
 <br><br>
 
 <p align="center">
